@@ -21,7 +21,7 @@ BuildRequires:	python-modules >= 2
 BuildRequires:	python-setuptools
 %endif
 %if %{with python3}
-BuildRequires:	python3-modules >= 3
+BuildRequires:	python3-modules >= 1:3
 BuildRequires:	python3-setuptools
 %endif
 Requires:	python-modules >= 2
