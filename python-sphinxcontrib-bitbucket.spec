@@ -52,7 +52,7 @@ projektów na serwisie BitBucket.
 
 %prep
 %setup -q -n sphinxcontrib-bitbucket-%{version}
-%patch -p1
+%patch -P 0 -p1
 
 %build
 %if %{with python2}
