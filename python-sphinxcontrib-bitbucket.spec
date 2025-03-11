@@ -7,7 +7,7 @@ Summary:	Sphinx/BitBucket integration module for Python 2
 Summary(pl.UTF-8):	Moduł integrujący Sphinx/BitBucket dla Pythona 2
 Name:		python-sphinxcontrib-bitbucket
 Version:	1.0
-Release:	9
+Release:	10
 License:	BSD
 Group:		Libraries/Python
 Source0:	https://files.pythonhosted.org/packages/source/s/sphinxcontrib-bitbucket/sphinxcontrib-bitbucket-%{version}.tar.gz
